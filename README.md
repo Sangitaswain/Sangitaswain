@@ -69,7 +69,5 @@ I’m highly ambitious, self-driven, and constantly trying to turn confusion int
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sangitaswain&layout=compact&theme=radical)
 
-
----
-
 ![Profile Views](https://visitcount.itsvg.in/api?id=Sangitaswain&icon=0&color=0)
+
