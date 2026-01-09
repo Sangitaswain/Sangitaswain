@@ -61,13 +61,13 @@ I’m highly ambitious, self-driven, and constantly trying to turn confusion int
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
  
 
----
-
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sangitaswain&show_icons=true&theme=radical)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sangitaswain&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sangitaswain&layout=compact&theme=radical)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sangitaswain&theme=github_dark)
 
-![Profile Views](https://visitcount.itsvg.in/api?id=Sangitaswain&icon=0&color=0)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sangitaswain&theme=github_dark)
+
+
 
